@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace AngelicSdkManager.ViewModels;
+namespace Monastic.ViewModels;
 
 public class ViewModelBase : ObservableObject
 {

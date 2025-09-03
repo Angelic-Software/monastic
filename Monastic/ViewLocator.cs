@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using AngelicSdkManager.ViewModels;
+using Monastic.ViewModels;
 
-namespace AngelicSdkManager;
+namespace Monastic;
 
 public class ViewLocator : IDataTemplate
 {

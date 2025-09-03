@@ -4,10 +4,10 @@ using Avalonia.Data.Core;
 using Avalonia.Data.Core.Plugins;
 using System.Linq;
 using Avalonia.Markup.Xaml;
-using AngelicSdkManager.ViewModels;
-using AngelicSdkManager.Views;
+using Monastic.ViewModels;
+using Monastic.Views;
 
-namespace AngelicSdkManager;
+namespace Monastic;
 
 public partial class App : Application
 {

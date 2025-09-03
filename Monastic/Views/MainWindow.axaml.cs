@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace AngelicSdkManager.Views;
+namespace Monastic.Views;
 
 public partial class MainWindow : Window
 {
